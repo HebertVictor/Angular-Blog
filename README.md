@@ -1,4 +1,8 @@
-# AngularBlog
+## AngularBlog
+
+![angular_blog2](https://github.com/HebertVictor/Angular-Blog/assets/78959183/a54844e0-400c-42de-8139-066a14022649)
+
+![angular_content2](https://github.com/HebertVictor/Angular-Blog/assets/78959183/d86c7181-e8a7-47f2-9918-39a2c7f8f1a0)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
