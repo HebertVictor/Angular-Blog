@@ -1,4 +1,4 @@
-## AngularBlog
+## Angular Blog
 
 ![angular_blog2](https://github.com/HebertVictor/Angular-Blog/assets/78959183/a54844e0-400c-42de-8139-066a14022649)
 
